@@ -1,9 +1,9 @@
 # Tool Hid
 
-Petunjuk penggunaan :
-= pkg update && pkg upgrade
-= pkg install git
-= git clone https://github.com/Sasmitadn/ToolHid
+Petunjuk penggunaan : </br>
+= pkg update && pkg upgrade </br>
+= pkg install git </br>
+= git clone https://github.com/Sasmitadn/ToolHid </br>
 
 # Hargai Jika Ingin Dihargai
 
