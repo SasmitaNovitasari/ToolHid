@@ -19,8 +19,8 @@ cyanx='\e[1;36m'
 clear
 figlet -f banner "Hidhunt"
 echo -e $birux"=========================================="
-echo -e $ungux"Dibuat : Sasmita"
-echo -e $redx"Youtube: Sasmita 2113"
+echo -e $ungux"Dibuat : Ivander"
+echo -e $redx"Pesan  : Boleh recode asal kasi credit nya"
 echo -e $birux"==========================================\n"
 
 echo -e $kuningx"Saat menginstall tool dibawah akan agak\nlama karena juga mengupdate pkg atau tool\nyg dibutuhkan untuk jaga jaga.\nTerimakasih telah menggunakan script ini:*\n"
